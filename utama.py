@@ -10,6 +10,7 @@ def mengetik(s):
 
 mengetik("...Hallo, model ini sudah di training oleh author Hendri Mardani...\n\
 ...Ini adalah NLP deteksi kalimat negatif, netral dan positif.\n\
-Contoh Penggunaan:\n\
+\nContoh Penggunaan:\n\
 1.Jangan dibeli barangnya jelek\n\
-2.Mending beli ditoko sebelah aja daripada disini\n")
+2.Mending beli ditoko sebelah aja daripada disini\n\
+Untuk keluar ketikan perintah "'keluar'\n")
