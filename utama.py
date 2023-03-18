@@ -13,4 +13,4 @@ mengetik("...Hallo, model ini sudah di training oleh author Hendri Mardani...\n\
 \nContoh Penggunaan:\n\
 1.Jangan dibeli barangnya jelek\n\
 2.Mending beli ditoko sebelah aja daripada disini\n\
-Untuk keluar ketikan perintah "'keluar'\n")
+Untuk keluar ketikan perintah 'keluar'\n")
